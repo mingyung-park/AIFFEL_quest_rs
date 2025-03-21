@@ -1,5 +1,5 @@
 # AIFFEL (Research) - Park,Mingyung
-** For Quest & Peer Review**
+**For Quest & Peer Review**
 
 ### Overview
 
