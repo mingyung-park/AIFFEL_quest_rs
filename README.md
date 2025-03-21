@@ -10,38 +10,36 @@
 ---
 ### Structure
 ```
-│  README.md
-│
-├─Exploration
-│  ├─Ex01
-│  │      .ipynb
-│  │      README.md
-.  .
-.  .
-.  .
-│  └─Ex07
-│          .ipynb
-│          README.md
-│
-├─GoingDeeper
-│  ├─Deeper01
-│  │      .ipynb
-│  │      README.md
-.  .
-.  .
-.  .
-│  └─Deeper18
-│          .ipynb
-│          README.md
-│
-└─MainQuest
-    ├─Quest01
-    │      .ipynb
-    │      README.md
-    .
-    .
-    .
-    └─Quest05
-            .ipynb
-            README.md
+├── Exploration
+│   ├── Ex01
+│   │   ├── .ipynb
+│   │   └── README.md
+.   .
+.   .
+.   .
+│   └── Ex07
+│       ├── .ipynb
+│       └── README.md
+|
+├── GoingDeeper
+│   ├── Deeper01
+│   │   ├── .ipynb
+│   │   └── README.md
+.   .
+.   .
+.   .
+│   └── Deeper18
+│       ├── .ipynb
+│       └── README.md
+├── MainQuest
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+.   .
+.   .
+.   .
+│   └── Quest05
+│       ├── .ipynb
+│       └── README.md
+└── README.md
 ```
